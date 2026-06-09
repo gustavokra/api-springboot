@@ -14,7 +14,7 @@ Adicionado o arquivo "docker-compose.yml" por meio do qual será iniciado o banc
 
 Criada a entidade "Pessoa" com o mapeamento usando as anotações do Jakarta.
 
-Criado o "Repository" usando a interface do Spring "Jpa Repository"
+Criado o "Repository" usando a interface do Spring "Jpa Repository".
 
 Criado o controller "PessoaController" com a arquitetura Rest e a IoC do Spring, injetando o repositório por meio do construtor da classe.
 
