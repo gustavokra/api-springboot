@@ -20,4 +20,6 @@ Criado o controller "PessoaController" com a arquitetura Rest e a IoC do Spring,
 
 Criado o "ExeptionHandler" geral, para mensagens de erro mais legíveis.
 
+Subir o banco de dados com ```docker-compose up```
+
 Após isso, bastou subir a API usando o comando ```mvn spring-boot:run``` e então acessar o swagger para fazer testes de maneira mais simples: http://localhost:8080/swagger-ui/index.html.
